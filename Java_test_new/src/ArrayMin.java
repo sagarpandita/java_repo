@@ -1,8 +1,8 @@
-import java.io.*;
+//import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+//import java.text.*;
+//import java.math.*;
+//import java.util.regex.*;
 
 public class ArrayMin {
 
@@ -48,6 +48,7 @@ public class ArrayMin {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter number of values:");
         int n = in.nextInt();
+        in.close();
         int[] ar1 = new int[n];
         System.out.println("Enter list 1:");
         for(int ar1_i = 0; ar1_i < n; ar1_i++){

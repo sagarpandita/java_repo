@@ -13,7 +13,7 @@ public class MergeSortAlgo {
 	}
 	
 	public Integer[] merge(Integer[] arr1,Integer[] arr2){
-		int min,max;
+		//int min,max;
 		Integer [] arrS=new Integer[arr1.length+arr2.length];
 		int i=0,j=0,k=0;
 		

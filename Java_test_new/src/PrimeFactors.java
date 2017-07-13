@@ -1,5 +1,5 @@
 import java.util.*;
-import java.math.*;
+//import java.math.*;
 
 public class PrimeFactors {
 	
@@ -7,8 +7,8 @@ public class PrimeFactors {
 		getPrimeFactors(5553430);
 	}
 	public static void getPrimeFactors(int n){
-		int primeFactorCount=1;
-		int num=n;
+		//int primeFactorCount=1;
+		//int num=n;
 		ArrayList<Integer> arrFac=new ArrayList<Integer>();
 		//while (n>2){
 			int i;

@@ -59,8 +59,8 @@ public class class_test {
 		      count=count+1;
 		  }
 		  
-		  int[] nums={1,2,3,4};
-		  int num_rev=nums.length;
+		  //int[] nums={1,2,3,4};
+		  //int num_rev=nums.length;
 		  
 		  return count;
 		  
